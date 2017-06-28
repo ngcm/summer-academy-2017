@@ -12,7 +12,7 @@ This repository contains material from the [NGCM Summer Academy 2017](http://ngc
 
 ## Plenary talks
 
-* [Adrian Jackson - EPCC and trends in supercomputing (Musings of an Idiot)](https://github.com/ngcm/summer-academy-2017/blob/master/plenary-talks/EPCC-NGCM-2017.pdf)
+* [Adrian Jackson - EPCC and trends in supercomputing (Musings of an Idiot)](https://github.com/ngcm/summer-academy-2017/raw/master/plenary-talks/EPCC-NGCM-2017.pdf)
 * [Anthony Morse - CUDA]()
 * [Skipper Seabold - Pandas](https://github.com/fonnesbeck/ngcm_pandas_course/blob/master/notebooks/pandas_slides.ipynb)
 * [Min Ragan-Kelley - Jupyter and IPython](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/JupyterNGCMBuilds.pdf)
