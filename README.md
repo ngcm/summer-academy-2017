@@ -1,4 +1,4 @@
-# NGCM Summer Academy 2015
+# NGCM Summer Academy 2017
 
 This repository contains material from the [NGCM Summer Academy 2017](http://ngcm.soton.ac.uk/summer-academy/), which ran 26-30 July 2017. Training was provided by
 
